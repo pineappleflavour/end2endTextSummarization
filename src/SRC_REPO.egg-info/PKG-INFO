@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: SRC_REPO
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/pineappleflavour/end2endTextSummarization
+Author: AUTHOR_USER_NAME
+Author-email: AUTHOR_EMAIL
+Project-URL: Bug Tracker, https://github.com/pineappleflavour/end2endTextSummarization/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# **REF : https://youtu.be/p7V4Aa7qEpw?si=IOIrqHGzUOFyENbs
