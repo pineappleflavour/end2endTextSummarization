@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 REPO_NAME = "end2endTextSummarization"
 AUTHOR_USER_NAME = "pineappleflavour"
 SRC_REPO = "textSummarizer"
-AUTHOR_EMAIL = 'ikediloh@gmail.com'
+AUTHOR_EMAIL = 'textmail'
 
 setuptools.setup(
     name="SRC_REPO",
